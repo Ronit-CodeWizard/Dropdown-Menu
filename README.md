@@ -1,5 +1,5 @@
 # Custom Dropdown Menu
-By [***RONIT-CODEWIZARD***]("https://github.com/Ronit-CodeWizard")
+By [***RONIT-CODEWIZARD***](https://github.com/Ronit-CodeWizard")
 ## Dropdown Menu
 * Dropdown Menu Using HTML CSS & JavaScript
 * Contains a button that shows and hides the menu.
